@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+# Dashboard Administrativo em React com múltiplos temas
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![React][react-badge]][react]
+[![Redux][redux-badge]][redux]
 
-## Available Scripts
+Aplicação [ReactJS][reactjs] desenvolvida objetivando adquirir habilidades em desenvolvimento WEB, utilizando o framework proposto.
+Foram seguidos os passos do autor [Tuat Tran Anh][https://youtu.be/q8cabjyUTVY] para consolidar os conceitos passados.
 
-In the project directory, you can run:
+# Ferramentas e bibliotecas utilizadas:
 
-### `yarn start`
+- [React JS][react]: Biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas WEB.
+- [Redux][redux]: Container para controle e gerenciamento de estado global de aplicações JavaScript baseado na arquitetura Flux (tem o propósito de solucionar o problema de compartilhamento de estados entre componentes, tornando-o unidirecional). 
+- [apexcharts][apexcharts]: Moderna biblioteca de gráficos JavaScript que permite criar visualizações de dados interativas com API simples e diversas amostras prontas para uso.
+- [Boxicons][Boxicons]: Ícones simples de código aberto criados para designers e desenvolvedores.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Clonar o repositório
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Para clonar o repositório, utilize os seguintes comandos:
+```sh
+git clone https://github.com/cvieirasp/dash-admin-react
+cd dash-admin-react
+npm i
+```
 
-### `yarn test`
+## Scripts disponíveis
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- `start` - Executa a aplicação na porta padrão.
 
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[react-badge]: https://badges.aleen42.com/src/react.svg
+[redux-badge]: https://badges.aleen42.com/src/redux.svg
+[react]: https://pt-br.reactjs.org/docs/getting-started.html
+[redux]: https://react-redux.js.org/introduction/getting-started
+[apexcharts]: https://apexcharts.com/docs/installation/
+[boxicons]: https://boxicons.com/
