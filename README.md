@@ -3,8 +3,8 @@
 [![React][react-badge]][react]
 [![Redux][redux-badge]][redux]
 
-Aplicação [ReactJS][reactjs] desenvolvida objetivando adquirir habilidades em desenvolvimento WEB, utilizando o framework proposto.
-Foram seguidos os passos do autor [Tuat Tran Anh][https://youtu.be/q8cabjyUTVY] para consolidar os conceitos passados.
+Aplicação [ReactJS][react] desenvolvida objetivando adquirir habilidades em desenvolvimento WEB, utilizando o framework proposto.
+Foram seguidos os passos do autor [Tuat Tran Anh][autor] para consolidar os conceitos passados.
 
 # Ferramentas e bibliotecas utilizadas:
 
@@ -32,3 +32,4 @@ npm i
 [redux]: https://react-redux.js.org/introduction/getting-started
 [apexcharts]: https://apexcharts.com/docs/installation/
 [boxicons]: https://boxicons.com/
+[autor]: https://youtu.be/q8cabjyUTVY
